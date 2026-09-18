@@ -25,7 +25,17 @@ The website will:
 On index page i added main and closing tabs as i did not have on part 1
 I adjusted my logo picture
 I changed my navigation buttons 
+Images added to the website
+CSS stylesheet created
+My First Styles.css linked to website pages
+CSS styling added to Home, About and Services
+Responsive design and media queries introduced
+
 
 ###Referencing
+Images used on the Sipesihle Tutoring Academy website were sourced from Unsplash, an online platform providing photographs under the Unsplash License. The images were selected to support the educational theme of the website and were downloaded for use within the website project.
+
+Unsplash (2026) Unsplash License. Available at: https://unsplash.com/terms (Accessed: 18 September 2026).
+Unsplash (2025) Can I use Unsplash images for personal or commercial projects? Available at: Unsplash Help Center (Accessed: 18 September 2026).
 
 
