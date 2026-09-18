@@ -37,5 +37,6 @@ Images used on the Sipesihle Tutoring Academy website were sourced from Unsplash
 
 Unsplash (2026) Unsplash License. Available at: https://unsplash.com/terms (Accessed: 18 September 2026).
 Unsplash (2025) Can I use Unsplash images for personal or commercial projects? Available at: Unsplash Help Center (Accessed: 18 September 2026).
+Photo by <a href="https://unsplash.com/@albertvincentwu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Albert Vincent Wu</a> on <a href="https://unsplash.com/photos/a-woman-in-a-graduation-cap-and-gown-m7yOJx0ALME?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 
